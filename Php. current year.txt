@@ -1,0 +1,14 @@
+<?php
+// PHP program to get the
+// current year
+
+echo "Current Year is :";
+
+// Store the year to
+// the variable
+$year = date("Y");
+
+// Display the year
+echo $year;
+
+?>
